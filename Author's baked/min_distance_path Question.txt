@@ -1,0 +1,65 @@
+There is a matrix of size (n x m) consisting of *'s #'s. #'s shows obstacles and *'s shows '*'. If a man starts from topmost-leftmost corner and can move
+in any direction(either left,right,up or down), calculate minimum *'s he has to collect in order to reach a particular point whose cordinates will be given
+as queries "i j" denoting the row number and column number. The man cannot cross over the obstacle.
+
+Constraints:
+0<t<=100000
+1<=n,m<=100
+0<=i<n
+0<=j<=m
+
+Input :
+first line is the no. of test cases followed by no. of rows and no. of columns followed by the matrix of *'s and #'s. Then the queries start which
+is of the form "i j" denoting the row no. and column no. of the destination. Last line of the query for every test case will -1 -1
+
+Output :
+for each of the query output the minimum no. of *'s that will be collected in his path from the topmost-leftmost point to the destination
+coordinate. If it is not possible to reach to the destination output a single line "This place cannot be reached".
+
+
+Examples :
+
+4          //test cases
+5 5        //no. of rows and columns
+*****      //the matrix, '*' means path '#' blockade
+*****
+#****
+*****
+*****
+3 0
+4 4
+-1 -1
+
+5 5
+*****
+*###*
+**#**
+*****
+*****
+2 1
+2 3
+1 0
+-1 -1
+
+5 5
+*****
+*****
+###**
+*****
+*****
+3 0
+3 1
+4 0
+4 1
+-1 -1
+
+5 5
+*****
+*****
+#****
+*#***
+*****
+3 0
+4 0
+4 1
+-1 -1

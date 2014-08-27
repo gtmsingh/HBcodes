@@ -1,0 +1,53 @@
+There is a matrix of size (n x m) consisting of *'s #'s in each cell. #'s shows obstacles and *'s shows '*'. If a man starts from topmost-leftmost corner
+and can move in any direction(either left,right,up or down) and can pick the star from the cell he reach, calculate maximum *'s he can collect from the
+entire matrix. The man cannot cross over the obstacle.
+
+Constraints:
+0<t<=100000
+1<=n,m<=100
+
+Input :
+first line is the no. of test cases followed by no. of rows and no. of columns followed by the matrix of *'s and #'s.
+
+Output :
+for each of the query output the maximum no. of *'s the man can collect from the entire matrix.
+
+Examples :
+
+6
+5 5
+*****
+*****
+#****
+*****
+*****
+5 5
+*****
+*###*
+**#**
+*****
+*****
+5 5
+*****
+*****
+###**
+*****
+*****
+5 5
+*****
+*#***
+#*#**
+*#***
+*****
+5 5
+*#***
+#****
+*****
+*****
+*****
+5 5
+#****
+*****
+*****
+*****
+*****
