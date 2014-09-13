@@ -32,6 +32,7 @@ int main(int argc, char* argv[])
 		file_name = argv[1];
 	}
 	else {							//or as a standard input
+		cout<<"Enter the file name: ";
 		file_name = (char*)malloc(sizeof(char)*1000);
 		scanf("%s",file_name);
 	}
@@ -145,6 +146,9 @@ int makeFile(cell* head, map<cell*, int> *mp, int size, const char* FILE_NAME) {
 	FILE *f1 = fopen(name1.c_str(), "w+");
 	name1 = name+".flag";
 	FILE *f2 = fopen(name1.c_str(), "w+");
+	
+	if(f1 == NULL || f2 == NULL)
+		return 1;
 	
 	fprintf(f2, "%d\n", size);
 	for(i=0; i<size; i++) {

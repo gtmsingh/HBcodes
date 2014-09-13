@@ -1,225 +1,32 @@
-Email ID      :  gautamsingh.nitd@gmail.com
-Contact No. :  +91-9903247702
-Gautam Singh
-Career Objective: Looking forward to an opportunity for utilizing my skills and abilities in the Information Technology industry that offers professional growth while being resourceful, innovative and flexible.
-
-Education
-
-Secondary and Higher Secondary
-	Board / Institution	Year of Passing	Percentage
-10th Standard	Indian Certificate of Secondary Education (ICSE) / Howrah St. Johns High School.	2009	82.22 %
-12th Standard	Indian School Certificate (ISC) / Ratnakar North Point School.	2011	78 %
-
-	Under Graduation (pursuing B. Tech in the department of Information Technology from National Institute of Technology, Durgapur. Year of passing: 2015 )
-	1st 	2nd	3rd	4th	5th	6th	7th	8th
-SGPA*	8.44	7.76	7.72	8.6	8.68	8.72	-	-
-CGPA#	8.44	8.10	7.97	8.13	8.24	8.32	-	-
-Year	2011	2012	2012	2013	2013	2014	-	-
-	*Semester Grade Point Assessment.
-	#Cumulative Grade Point Assessment.
-
-Internships & Trainings
-
-	Network Management Course in Nettech Private Limited, Kolkata (July 2013).
-Learned basic concepts of networking and use of different servers in Red Hat Enterprise Linux (RHEL) and simulated working of internet and intranet in CISCO packet tracer. As a part of final project, along with 5 members we successfully created a Mail Server, 2 DNS (1 master and 1 slave) and 1 Web Server for the network of 7 other teams in RHEL.
-
-	Internship at NICEFIT Career Consulting Pvt. Ltd., Hyderabad (May 2014-July 2014). 
-
-Academic Projects
-
-	Multi-Agent Based Dynamic Task Allocation (Aug-Oct ’13).
-The project aimed at automated allocation of tasks among agents (thread like programs) taking consideration of various requirements of the tasks and capabilities possessed by the agents in a real life environment of interaction.
-Guided by Prof. A. Dutta (Department of Information Technology, NIT Durgapur)
-
-Skills
-
-	Programming languages: C (Intermediate), C++ (Intermediate), Java (Beginner), HTML, CSS, PHP (Beginner), JavaScript (Beginner) and MySQL (Beginner).
-	Database: MySQL.
-	Platforms: Microsoft Windows and Linux. 
-
-Academic activities
-
-	Developed a cross platform local chat application using Multi-Agent System for users in same network using JADE framework in Java.
-	Using PHP, MySQL and basic HTML made a Library Software having different functionality required in administering library and a portal of Student Information System.
-	Simulated peer-to-peer networking model using Multi-agent System in Java platform using JADE framework.
- 
-Achievements
-
-	Received Certificate of Excellence from Nettech Private Limited in “Network Management” training program attended in July 2013.
-	Received Special Appreciation award from NICEFIT Career Consulting during the internship program May-July 2014.
-
-Extracurricular activities
-
-	Participating in coding contests held by CodeChef.
-	Occasionally playing Carom, Table tennis and Badminton and travelling.
-
-Personal details
-Date of birth :	11th December, 1994.
-Present Address :	Room-170, C V Raman Hall of Residence, Hall-4.
-National Institute of Technology Durgapur.
-Durgapur-713209, West Bengal, India.
-Languages known :	Hindi (Mother tongue), English and Bhojpuri.
-Location preference :	None.
-
-
-
-ALOK SINGH
-1/1,Hardutta Rai Chamaria Road,Howrah-711101,(West bengal)
-Landline : 033-2666-3305
-Cell : 9748336101
-E-mail ID : aloksingh3007@gmail.com
-
-
-CAREER OBJECTIVES :
-
-To work as a software engineer in a renowned organisation and enhance skills in a competitive working  environment. 
-
-ACADEMIC DETAILS :
-
-	Pursuing B.Tech in Information Technology from Academy of Technology,Adisaptagram
-    SGPA :8.03 (3rd Semester)
-                8.24 (2nd Semester)
-	    8.19 (1st Semester)
-	Passed Higher Secondary from M.C.Kejriwal Vidyapeeth (Affiliated to ISC) with  67.14%.
-	Passed High School from Howrah St.John's High School (Affiliated to ICSE) with 85.57%.
-
-
-TECHNICAL STRENGTHS :
-
-Programming languages  :  C , Java.
-Operating  Systems :  Windows & Linux.
-Softwares  :  Microsoft Word , Microsoft Excel , Microsoft Powerpoint , Microsoft Visual Basic 6.0 . 
-
-PROFESSIONAL STRENGTHS :
-
-Posses good verbal and written communication skills.
-Quick learner and ability to work under pressure.
-Ability to work in a team.
-Presentation skills.
-Good motivator and open to learn new ideas.
-
-EXTRA CURRICULAR ACTIVITIES :
-
-Participated and won 2nd prize in drawing competition held by ARENA multimedia.
-Won  Runners-up trophy in Cricket Inter class competition held by school.
-
-
-
-OTHER INTERESTS & HOBBIES :
-
-Playing football , Cricket , Chess .
-Travelling.
-Drawing.
-Coding.
-Listening music.
-
-PERSONAL DETAILS :
-
-Date of Birth	:	30 November,1993.
-Languages known	:	English, Hindi.
-
-
-I, hereby declare that the above information is true to the best of my knowledge and belief.
-
-
-
-PLACE   : Howrah.		                     Signature:
-				  ----------------------------------------
-DATE     :16 May 2013.			                  (ALOK SINGH)     
-
-CURRICULUM VITAE
-SIDDHANT GANERIWAL
-DOB 20 October 1991; Sex Male
-Undergraduate Student
-Department of Computer Science & Engineering
-National Institute of Technology (NIT), Durgapur, India.
-NIT Durgapur- www.nitdgp.ac.in
-Expected Year of Graduation: 2014
-Room No. – 209, Hall No. – 4
-Durgapur -713 209,
-West Bengal India.
-Phone - +91 9681939126
-E-Mail: siddhant2091@gmail.com
-OBJECTIVE:
-Aspiring to work in a research based organization, which provides me with an opportunity
-for learning, analytical thinking and an environment where I can use my academic knowledge and
-technical skills to solve real world problems.
-PERMANENT ADDRESS:
-493/C/A G.T. ROAD (South), Vivek Vihar, Phase-5, Block-17, Flat-4B,
-Shibpur, Howrah-711102(W.B), India
-EDUCATION:
-Undergraduate Degree, Bachelor of Technology
-Year of Graduation: 2014
-University: National Institute of Technology, Durgapur
-Department: Computer Science & Engineering.
-SGPA Semester Examination Year
-8.16 1st Btech 2010-11
-9.24 2nd Btech 2010-11
-8.64 3rd Btech 2011-12
-9.00 4th Btech 2011-12
-8.32 5th Btech 2012-13
-8.92 6th Btech 2012-13
-Cumulative CGPA After 6th semester 8.71/10
-Class XII (CBSE Board)
-Year of Completion: 2010
-School: Birla High School, Kolkata (W.B.)
-Aggregate Percentage Score 85 %
-Class X (WBBSE Board)
-Year of Completion: 2008
-School: Shree Jain Vidyalaya, Howrah (W.B.)
-Aggregate Percentage Score 92 %
-AREA OF INTEREST:
-Networking, Data Structure, Object Oriented Programming, Algorithms, Cryptography
-TECHNICAL SKILLS:
-Programming Languages: C(proficient), C++ (proficient), MySql, PlSql
-Operating System handled: Microsoft XP/Vista/7/8, Linux (Ubuntu)
-Language Spoken: English, Hindi, Bengali
-Softwares Used: Boson Netsim, QCA Designer
-COURSES STUDIED IN DEPARTMENT:
-Technical
-Data Structures (8 credits)
-Operating Systems (4 credits)
-Database Management Systems (4 credits)
-Computer Networks (4 credits)
-Computer Organisation and Architecture (7 credits)
-Microprocessor and their Applications (4 credits)
-VLSI System Design (4 credits)
-Object Oriented Programming (3 credits)
-Discrete Mathematics (3 credits)
-Switching Theory and Logic Design (3 credits)
-Theory of Computing (3 credits)
-System Programming (4 credits)
-Compiler Design (4 credits)
-Communication Engineering (3 credits)
-Introduction to Cryptography (3 credits)
-Design and Analysis of Algorithms (4 credits)
-Non-Technical
-Higher Engineering Mathematics (10 credits)
-Engineering Economics and Accountancy (3 credits)
-Principles of Management (3 credits)
-ACHIVEMENTS:
- Consistently meritorious achievements in academics and have been the best student in academics
-from standard I to X.
- Achieved highest marks in Howrah during the secondary board exam(WBBSE) in 2008.
- Took part in a technical meet organized by the Embassy of Switzerland,New Delhi in association
-with Birla Industrial and Technological Meuseum,Kolkata.
- Ranked AIR-8539 (State Rank-128) in All India Engineering Entrance Examination (AIEEE), 2010.
-CO CURRICULAR ACTIVITES:
- Member of the college club GNU Linux Users Group (GLUG), NIT Durgapur.
- Was a fest coordinator at Mukti, the annual inter-college FOSS fest of our college twice in 2012
-and 2013.
- Learned Taekwondo for 4 years and participated at the district level Taekwondo championship.
-INTERNSHIP AND RESEARCH WORK DONE:
-At the end of my fourth semester, during the summer vacation of 2012 I did an internship in Reliance
-Communications Ltd., Kolkata under the supervision of Mr. Sumantra Nayak and Mr. Sameer Adhikari in
-the networking department. The project was based on ‘Cisco Routers and Firewalls’ and it involved
-designing routers with required network configurations and also its usage in buffing up the security of
-networks. During the course of it I acquired an all-around knowledge on networking concepts and
-various systems used in the field. During the period of my internship I configured routers and switches
-with specified configurations and also learned about handling network protocols and various security
-features, which can be implemented through routers. I also assisted Mr. Chandan De for a field work to
-solve some network problems in a client netwok which was a part of my intern work.
-I hereby declare that all information provided by me is correct to the best of my knowledge.
-Siddhant Ganeriwal
-NIT Durgapur
-Roll No. 10/CSE/03
+What is version control, and why should you care? Version control is a system
+that records changes to a file or set of files over time so that you can recall
+specific versions later. For the examples in this book you will use software source
+code as the files being version controlled, though in reality you can do this with
+nearly any type of file on a computer.
+If you are a graphic or web designer and want to keep every version of an image
+or layout (which you would most certainly want to), a Version Control System
+(VCS) is a very wise thing to use. It allows you to revert files back to a previous
+state, revert the entire project back to a previous state, compare changes over
+time, see who last modified something that might be causing a problem, who
+introduced an issue and when, and more. Using a VCS also generally means that
+if you screw things up or lose files, you can easily recover. In addition, you get
+all this for very little overhead.
+Many people’s version-control method of choice is to copy files into another
+directory (perhaps a time-stamped directory, if they’re clever). This approach is
+very common because it is so simple, but it is also incredibly error prone. It is
+easy to forget which directory you’re in and accidentally write to the wrong file
+or copy over files you don’t mean to.
+To deal with this issue, programmers long ago developed local VCSs that had
+a simple database that kept all the changes to files under revision control (see
+One of the more popular VCS tools was a system called rcs, which is still
+distributed with many computers today. Even the popular Mac OS X operating
+system includes the rcs command when you install the Developer Tools. This
+tool basically works by keeping patch sets (that is, the differences between files)
+from one change to another in a special format on disk; it can then re-create
+what any file looked like at any point in time by adding up all the patches.
+The next major issue that people encounter is that they need to collaborate
+with developers on other systems. To deal with this problem, Centralized Version
+Control Systems (CVCSs) were developed. These systems, such as CVS, Subversion,
+and Perforce, have a single server that contains all the versioned files, and
+a number of clients that check out files from that central place. For many years,
+this has been the standard for version control (see

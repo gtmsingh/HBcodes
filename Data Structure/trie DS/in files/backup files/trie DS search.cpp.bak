@@ -24,6 +24,7 @@ int main(int argc, char* argv[])
 		file_name = argv[1];
 	}
 	else {
+		cout<<"Enter the file name: ";
 		file_name = (char*)malloc(sizeof(char)*1000);
 		scanf("%s",file_name);
 		//printf("filename= %s\n",file_name);

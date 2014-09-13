@@ -32,6 +32,7 @@ int main(int argc, char* argv[])
 		file_name = argv[1];
 	}
 	else {							//or as a standard input
+		cout<<"Enter the file name: ";
 		file_name = (char*)malloc(sizeof(char)*1000);
 		scanf("%s",file_name);
 	}
@@ -67,9 +68,7 @@ int main(int argc, char* argv[])
 	key--;			//since key is always one more than the number of arrays
 	cout<<"Number of arrays made: "<<key<<endl;
 	
-	makeFile(top, &mapper, key, FILE_NAME);
-	
-	return 0;
+	return makeFile(top, &mapper, key, FILE_NAME);
 }
 
 int makeFile(cell* head, map<cell*, int> *mp, int size, const char* FILE_NAME) {
@@ -111,6 +110,9 @@ int makeFile(cell* head, map<cell*, int> *mp, int size, const char* FILE_NAME) {
 	name1 = name+".flag";
 	FILE *f2 = fopen(name1.c_str(), "w+");
 	
+	if(f1 == NULL || f2 == NULL)
+		return 1;
+	
 	fprintf(f2, "%d\n", size);
 	for(i=0; i<size; i++) {
 		fprintf(f1, "%d", arr[i][0]);
@@ -125,6 +127,8 @@ int makeFile(cell* head, map<cell*, int> *mp, int size, const char* FILE_NAME) {
 	}
 	fclose(f1); 
 	fclose(f2);
+	
+	return 0;
 }
 
 int addWord(string item, cell **head, map<cell*, int> *mapper, int maxKey) {
