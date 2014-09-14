@@ -13,8 +13,9 @@ Kick Start:
 
 Technical details:
 1. Return values:
-		1 = error in opening any file.
 		0 = proper termination of the program
+		1 = error in opening any file.
+		2 = error in reading the file contents.
 		
 2. Character markers:
 		'z' = shows that there is not letter after this point and the point is not reached and is the default value.
