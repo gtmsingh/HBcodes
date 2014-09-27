@@ -1,0 +1,87 @@
+Thank your for reading this book. My motivation for writing this book comes from a gap
+I saw in today's literature for kids interested in learning to program. I started programming
+when I was 9 years old in the BASIC language with a book similar to this one. During the
+course of writing this, I've realized how a modern language like Python has made
+programming far easier and versatile for a new generation of programmers. Python has a
+gentle learning curve while still being a serious language that is used by programmers
+professionally.
+The current crop of programming books for kids that I've seen fell into two categories.
+First, books that did not teach programming so much as "game creation software" or a
+dumbed-down languages to make programming "easy" (to the point that it is no longer
+programming). Or second, they taught programming like a mathematics textbook: all
+principles and concepts with little application given to the reader. This book takes a
+different approach: show the source code for games right up front and explain
+programming principles from the examples.
+I have also made this book available under the Creative Commons license, which allows
+you to make copies and distribute this book (or excerpts) with my full permission, as long
+as attribution to me is left intact and it is used for noncommercial purposes. (See the
+copyright page.) I want to make this book a gift to a world that has given me so much.
+Thank you again for reading this book, and feel free to email me any questions or
+comments.
+In this book, any words you need to know will look like this. For example, the word
+"program" is defined in the previous paragraph.
+In order to tell a computer what you want it to do, you write a program in a language that
+the computer understands. The programming language this book teaches is named Python.
+There are many different programming languages including BASIC, Java, Python, Pascal,
+Haskell, and C++ (pronounced, "c plus plus").
+When I was a kid most people learned to program in BASIC as their first language. But
+new programming languages have been invented since then, including Python. Python is
+even easier to learn than BASIC and it's a serious programming language used by
+professional computer programmers. Many adults use Python in their work (and when
+programming just for fun).
+The first few games we'll create together in this book will probably seem simple
+compared to the games you've played on the Xbox, Playstation, or Wii. They don't have
+fancy graphics or music but that's because they're meant to teach you the basics. They're
+purposely simple so that we can focus on learning to program. Games don't have to be
+complicated to be fun. Hangman, Tic Tac Toe, and making secret codes are simple to
+program but are also fun.
+We'll also learn how to make the computer solve some math problems in the Python
+shell. (Don't worry if you don't know a lot of mathematics. If you know how to add and
+multiply, you know enough math to do programming. Programming is more about problem
+solving in general than it is about solving math problems.)If your operating system is Ubuntu, you can install Python by opening a terminal
+window (click on Applications > Accessories > Terminal) and entering sudo apt-get
+install python3 then pressing Enter. You will need to enter the root password to
+install Python, so ask the person who owns the computer to type in this password.
+There may be a newer version of Python available than 3.1. If so, then just download the
+latest version. The game programs in this book will work just the same. If you have any
+problems, you can always Google for "installing Python on <your operating system's
+name>". Python is a very popular language, so you should have no difficulty finding help.
+A video tutorial of how to install Python is available from this book's website at
+Most chapters begin with a sample run of the featured program. This sample run shows
+you what the program's output looks like, with what the user types in shown as bold print.
+This will give you an idea of what the complete game will look like when you have entered
+the code and run it.
+Some chapters also show the complete source code of the game, but remember: you don't
+have to enter every line of code right now. Instead, you can read the chapter first to
+understand what each line of code does and then try entering it later.
+You can also download the source code file from this book's website. Go to the URL
+ and follow the instructions to download the source
+code file.
+You can think of the variable like a
+box with the value 15 inside of it (as
+shown in Figure 2-4). The variable
+name "spam" is the label on the box (so
+we can tell one variable from another)
+and the value stored in it is like a small
+note inside the box.
+When you press Enter you won't see
+anything in response, other than a
+blank line. Unless you see an error
+message, you can assume that the
+instruction has been executed
+successfully. The next >>> prompt will
+appear so that you can type in the next instruction.
+This instruction (called an assignment statement) creates the variable spam and
+stores the value 15 in it. Unlike expressions, statements are instructions that do not
+evaluate to any value, which is why there is no value displayed on the next line in the shell.
+It might be confusing to know which instructions are expressions and which are
+statements. Just remember that if the instruction evaluates to a single value, it's an
+expression. If the instruction does not, then it's a statement.
+An assignment statement is written as a variable, followed by the = equal sign, followed
+by an expression. The value that the expression evaluates to is stored inside the variable.
+The value 15 by itself is an expression. Expressions made up of a single value by itself are
+easy to evaluate. These expressions just evaluate to the value itself. For example, the
+expression 15 evaluates to 15!
+Remember, variables store values, not expressions. For example, if we had the statement,
+spam = 10 + 5, then the expression 10 + 5 would first be evaluated to 15 and then
+the value 15 would be stored in the variable, spam.

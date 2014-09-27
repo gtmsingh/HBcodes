@@ -26,7 +26,12 @@ Technical details:
 
 3. Files: 
 		*.cpp = the programs to be executed
-		*.seq and *.flag = processed files for future query
+		*.seq, *.flag  and *.alpha = processed files for future query
 		*.bak = the debug files which consists of points where data can be printed by proper un-commenting of lines in the program, they are present in "backup files" folder
-		
+
+
+4. Deviations from v1.1:
+		The functionality of the program remains the same but the total size of the processed files is reduced to a great extent by extracting the functionality of the .seq file from both .seq and .flag files. Using these two files we actually store only the required informations.
+
+			
 for any further query contact @ gtm93singh[at]gmail.com
